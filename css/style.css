@@ -86,7 +86,7 @@ header {
         z-index: 0;
     }
 }
-@media (prefers-reduced-motion) {
+@media (prefers-reduced-motion: reduce) {
     #logo {
         animation: none;
     }
