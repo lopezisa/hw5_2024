@@ -34,7 +34,6 @@ header {
     width: 100%;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
-    flex-wrap: wrap;
 }
 .card > header {
     background: #288088;
@@ -118,9 +117,6 @@ header {
         font-size: 20px;
         color: yellow;
         position: absolute;
-    }
-    .gallery {
-        display: none;
     }
    #gallery {
     display: none;
